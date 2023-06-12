@@ -1,0 +1,3 @@
+[submodule "DigiCom"]
+	path = DigiCom
+	url = https://github.com/julie-schult/EURECOM_DigiCom.git
