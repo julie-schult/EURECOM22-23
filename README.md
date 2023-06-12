@@ -10,6 +10,6 @@ by Julie E. Schult
 
 ## Courses spring semester
 * DigitalSystems
-* ImSecu
+* ImSecu (missing one big .h5 file with weights)
 * MALCOM
 * Speech
