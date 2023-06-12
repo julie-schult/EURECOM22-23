@@ -1,3 +1,6 @@
 [submodule "DigiCom"]
 	path = DigiCom
 	url = https://github.com/julie-schult/EURECOM_DigiCom.git
+[submodule "ATWireless"]
+	path = ATWireless
+	url = https://github.com/julie-schult/EURECOM_ATWireless.git
