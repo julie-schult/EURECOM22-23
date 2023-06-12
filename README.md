@@ -6,9 +6,10 @@ by Julie E. Schult
 ## Courses fall semester
 * ATWireless
 * DigiCom
+* MALIS
 
 ## Courses spring semester
 * DigitalSystems
 * ImSecu
-* ASI
 * MALCOM
+* Speech
