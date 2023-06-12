@@ -4,3 +4,6 @@
 [submodule "ATWireless"]
 	path = ATWireless
 	url = https://github.com/julie-schult/EURECOM_ATWireless.git
+[submodule "MALIS"]
+	path = MALIS
+	url = https://github.com/julie-schult/MALIS.git
